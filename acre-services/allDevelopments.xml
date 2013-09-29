@@ -1,0 +1,1290 @@
+
+<array>
+
+    <dict>
+    <key>dbId</key><integer>1</integer>
+    <key>typeName</key><string>farm</string>
+    <key>name</key><string>Garden</string>
+    <key>description</key><string>little space for growing / mining whatever you can find</string>
+    <key>image</key><string>1</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>30</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 15 items</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>2</integer>
+    <key>typeName</key><string>house</string>
+    <key>name</key><string>Small Home</string>
+    <key>description</key><string>good home base for a small area--stores some items and helps you pay upkeep on nearby lots</string>
+    <key>image</key><string>2</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>50</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>Can upkeep lots 5 miles away</string>
+        <string>can store 50 items</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>7</integer>
+    <key>typeName</key><string>farm</string>
+    <key>name</key><string>Farm / Mine</string>
+    <key>description</key><string>up your lot's production by turning it into a real workhorse</string>
+    <key>image</key><string>7</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>70</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 30 items</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>6</integer>
+    <key>typeName</key><string>store</string>
+    <key>name</key><string>Small Shop</string>
+    <key>description</key><string>buy from and sell to other users in your neighborhood</string>
+    <key>image</key><string>6</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>75</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 40 items</string>
+        <string>Space for 10 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>24</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Fruit Stand</string>
+    <key>description</key><string>Not the most profitable thing to do with fruit, but better than liquidating.</string>
+    <key>image</key><string>24</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>2</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>3</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>4</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>3</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>5</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>4</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>8</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>5</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>10</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>10</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>10</integer>
+    <key>actionGroup</key><integer>3</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>10</integer>
+    <key>actionGroup</key><integer>4</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>10</integer>
+    <key>actionGroup</key><integer>5</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>80</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>Can hold 15 items</string>
+        <string>Space for 1 offer</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>25</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Rice Situation</string>
+    <key>description</key><string></string>
+    <key>image</key><string>25</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>23</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>20</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>120</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 15 items</string>
+        <string>Space for 3 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>28</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Candy Works</string>
+    <key>description</key><string>Sweet!</string>
+    <key>image</key><string>28</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>24</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>20</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>130</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>Can store for 40 items</string>
+        <string>Spce for 3 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>4</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Canned Peaches Factory</string>
+    <key>description</key><string>yum!!</string>
+    <key>image</key><string>4</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>2</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>14</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>40</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>160</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 30 items</string>
+        <string>Space for 3 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>8</integer>
+    <key>typeName</key><string>farm</string>
+    <key>name</key><string>Mega Farm / Mega Mine</string>
+    <key>description</key><string>for when a regular farm / mine isn't enough--4x the production of a garden</string>
+    <key>image</key><string>8</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>175</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 60 items</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>11</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Bagel Factory</string>
+    <key>description</key><string>makes dough into dough</string>
+    <key>image</key><string>11</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>6</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>35</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>185</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 20 items</string>
+        <string>Space for 3 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>9</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Cider House</string>
+    <key>description</key><string>see how they like YOUR apples</string>
+    <key>image</key><string>9</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>4</integer>
+    <key>qty</key><integer>-10</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>90</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>225</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>25</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 30 items</string>
+        <string>Space for 3 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>27</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Craveable Confections</string>
+    <key>description</key><string>Get your just desserts</string>
+    <key>image</key><string>27</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>6</integer>
+    <key>qty</key><integer>-10</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>24</integer>
+    <key>qty</key><integer>-2</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>75</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>250</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>Can store 30 items</string>
+        <string>Space for 5 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>5</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Orange Juicery</string>
+    <key>description</key><string>inexpensive factory, great for beginners who have access to oranges</string>
+    <key>image</key><string>5</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>10</integer>
+    <key>qty</key><integer>-10</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>50</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>275</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 40 items</string>
+        <string>Space for 3 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>10</integer>
+    <key>typeName</key><string>store</string>
+    <key>name</key><string>Store</string>
+    <key>description</key><string>buy and sell MORE stuff</string>
+    <key>image</key><string>10</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>300</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>Can store 100 items</string>
+        <string>Space for 20 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>20</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Still</string>
+    <key>description</key><string>manufactures more expensive produce-based products</string>
+    <key>image</key><string>20</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>6</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>2</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>7</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>3</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>23</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>4</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>15</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>30</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>20</integer>
+    <key>actionGroup</key><integer>3</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>35</integer>
+    <key>actionGroup</key><integer>4</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>300</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 15 items</string>
+        <string>Space for 3 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>15</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Tire Factory</string>
+    <key>description</key><string>cheap-ish oil consuming development</string>
+    <key>image</key><string>15</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>19</integer>
+    <key>qty</key><integer>-10</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>-3</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>85</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>385</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>20</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 30 items</string>
+        <string>Space for 5 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>3</integer>
+    <key>typeName</key><string>house</string>
+    <key>name</key><string>Large Home</string>
+    <key>description</key><string>stores twice as much stuff as a small house and sees lots 3 times as far away</string>
+    <key>image</key><string>3</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>400</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>20</integer>
+    <key>qty</key><integer>25</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 100 items</string>
+        <string>Can upkeep lots 10 miles away</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>17</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Jam Works</string>
+    <key>description</key><string>another fruit industry</string>
+    <key>image</key><string>17</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>5</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>2</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>3</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>3</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>15</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>25</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>40</integer>
+    <key>actionGroup</key><integer>3</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>500</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 15 items</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>13</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Chutney Creations</string>
+    <key>description</key><string>more profitable thing to do with some fruit items</string>
+    <key>image</key><string>13</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>8</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>4</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>75</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>20</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>1000</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 20 items</string>
+        <string>Space for 5 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>22</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Exorbitant Coffee Roaster</string>
+    <key>description</key><string>with the judicious application of heat, coffee becomes much more valuble</string>
+    <key>image</key><string>22</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>9</integer>
+    <key>qty</key><integer>-5</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>100</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>1000</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>50</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 20 items</string>
+        <string>Space for 2 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>23</integer>
+    <key>typeName</key><string>farm</string>
+    <key>name</key><string>Staging Area</string>
+    <key>description</key><string>prepare your acre for a big project by building one of these</string>
+    <key>image</key><string>23</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>1000</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 500 items!</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>19</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Saw Mill</string>
+    <key>description</key><string>sell your wood, only profitable in bulk</string>
+    <key>image</key><string>19</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>20</integer>
+    <key>qty</key><integer>-50</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>600</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>1500</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>30</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>19</integer>
+    <key>qty</key><integer>10</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 200 items</string>
+        <string>Space for 2 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>26</integer>
+    <key>typeName</key><string>house</string>
+    <key>name</key><string>Mansion</string>
+    <key>description</key><string>Maintain your duchy</string>
+    <key>image</key><string>26</string>
+    
+    <key>input</key>
+    
+<array>
+</array> 
+
+    <key>output</key>
+    
+<array>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>2500</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>20</integer>
+    <key>qty</key><integer>50</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>10</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>Can upkeep lots 50 miles away</string>
+        <string>Can store 300 items</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>14</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Rank Refinery</string>
+    <key>description</key><string>smelly, inefficient, but profitable</string>
+    <key>image</key><string>14</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>19</integer>
+    <key>qty</key><integer>-30</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>240</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>2500</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>100</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 200 items</string>
+        <string>Space for 5 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>18</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Mr. Fission</string>
+    <key>description</key><string>produces 1.21 GW</string>
+    <key>image</key><string>18</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>17</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>2000</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>4000</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>100</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>13</integer>
+    <key>qty</key><integer>100</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 5 items</string>
+        <string>Space for 2 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>16</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Jewelery Wholesaler</string>
+    <key>description</key><string>when it's time to make the big bucks</string>
+    <key>image</key><string>16</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>16</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>15</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>18</integer>
+    <key>qty</key><integer>-1</integer>
+    <key>actionGroup</key><integer>3</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>40</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>100</integer>
+    <key>actionGroup</key><integer>2</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>500</integer>
+    <key>actionGroup</key><integer>3</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>5000</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 5 items</string>
+        <string>Space for 5 offers</string>
+        
+    </array>
+    </dict>
+
+    <dict>
+    <key>dbId</key><integer>12</integer>
+    <key>typeName</key><string>factory</string>
+    <key>name</key><string>Alchemy Machine</string>
+    <key>description</key><string>GOLD!!</string>
+    <key>image</key><string>12</string>
+    
+    <key>input</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>13</integer>
+    <key>qty</key><integer>-10</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>14</integer>
+    <key>qty</key><integer>-10</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>output</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>15</integer>
+    <key>qty</key><integer>1</integer>
+    <key>actionGroup</key><integer>1</integer>
+</dict>
+</array> 
+
+    <key>cost</key>
+    
+<array>
+<dict>
+    <key>typeId</key><integer>1</integer>
+    <key>qty</key><integer>85000</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>11</integer>
+    <key>qty</key><integer>200</integer>
+</dict>
+<dict>
+    <key>typeId</key><integer>16</integer>
+    <key>qty</key><integer>50</integer>
+</dict>
+</array> 
+
+    <key>abilities</key>
+    <array>
+        <string>can store 100 items</string>
+        <string>Space for 6 offers</string>
+        
+    </array>
+    </dict>
+
+</array>
+

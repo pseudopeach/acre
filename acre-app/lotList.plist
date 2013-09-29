@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>dbId</key>
+		<integer>3969349320</integer>
+		<key>parentLotId</key>
+		<integer>0</integer>
+		<key>ci</key>
+		<integer>1542</integer>
+		<key>cj</key>
+		<integer>4412</integer>
+		<key>locationName</key>
+		<string>Miami Springs</string>
+		<key>name</key>
+		<string>Lot Named Foo</string>
+		<key>devTypeId</key>
+		<integer>1</integer>
+		<key>devTypeName</key>
+		<string>Large House</string>
+		<key>rentPrice</key>
+		<integer>12</integer>
+		<key>rentDue</key>
+		<date>2010-12-25T20:51:44Z</date>
+	</dict>
+	<dict>
+		<key>dbId</key>
+		<integer>3969349321</integer>
+		<key>parentLotId</key>
+		<integer>3969349320</integer>
+		<key>ci</key>
+		<integer>1543</integer>
+		<key>cj</key>
+		<integer>4412</integer>
+		<key>locationName</key>
+		<string>Doral</string>
+		<key>name</key>
+		<string>Another Lot</string>
+		<key>devTypeId</key>
+		<integer>1</integer>
+		<key>devTypeName</key>
+		<string>Small mine</string>
+		<key>rentPrice</key>
+		<integer>31</integer>
+		<key>rentDue</key>
+		<date>2010-12-24T20:51:44Z</date>
+	</dict>
+	<dict>
+		<key>dbId</key>
+		<integer>3969349322</integer>
+		<key>parentLotId</key>
+		<integer>0</integer>
+		<key>ci</key>
+		<integer>1542</integer>
+		<key>cj</key>
+		<integer>4410</integer>
+		<key>locationName</key>
+		<string>Santa Cruz</string>
+		<key>name</key>
+		<string>house 2</string>
+		<key>devTypeId</key>
+		<integer>1</integer>
+		<key>devTypeName</key>
+		<string>Small House</string>
+		<key>rentPrice</key>
+		<integer>25</integer>
+		<key>rentDue</key>
+		<date>2010-12-21T20:51:44Z</date>
+	</dict>
+	<dict>
+		<key>dbId</key>
+		<integer>3969349328</integer>
+		<key>parentLotId</key>
+		<integer>3969349322</integer>
+		<key>ci</key>
+		<integer>1542</integer>
+		<key>cj</key>
+		<integer>4418</integer>
+		<key>locationName</key>
+		<string>Soquel</string>
+		<key>name</key>
+		<string>Large Orange Juice Factory</string>
+		<key>devTypeId</key>
+		<integer>1</integer>
+		<key>devTypeName</key>
+		<string>Small House</string>
+		<key>rentPrice</key>
+		<integer>15</integer>
+		<key>rentDue</key>
+		<date>2010-12-15T20:51:44Z</date>
+	</dict>
+	<dict>
+		<key>dbId</key>
+		<integer>3969349329</integer>
+		<key>parentLotId</key>
+		<integer>3969349322</integer>
+		<key>ci</key>
+		<integer>1542</integer>
+		<key>cj</key>
+		<integer>4419</integer>
+		<key>locationName</key>
+		<string>Scotts Valley</string>
+		<key>name</key>
+		<string>house 2</string>
+		<key>devTypeId</key>
+		<integer>1</integer>
+		<key>devTypeName</key>
+		<string>Small Farm</string>
+		<key>rentPrice</key>
+		<integer>56</integer>
+		<key>rentDue</key>
+		<date>2011-01-21T20:51:44Z</date>
+	</dict>
+</array>
+</plist>

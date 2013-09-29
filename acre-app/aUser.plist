@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dbId</key>
+	<integer>412</integer>
+	<key>screenName</key>
+	<string>PseudoPeach</string>
+	<key>lotsOwned</key>
+	<integer>25</integer>
+	<key>lotsVisited</key>
+	<integer>612</integer>
+	<key>score</key>
+	<integer>39254930</integer>
+	<key>mapPoints</key>
+	<array>
+		<dict>
+			<key>lat</key>
+			<real>26.4243</real>
+            <key>lon</key>
+			<real>-80</real>
+        </dict>
+        <dict>
+            <key>lat</key>
+			<real>37.01</real>
+            <key>lon</key>
+			<real>-121.99</real>
+		</dict>
+	</array>
+	<key>nobleTitles</key>
+	<array>
+		<string>Duke of New York</string>
+		<string>Viscount of Miami Springs</string>
+		<string>Earl of Santa Cruz</string>
+	</array>
+	<key>password</key>
+	<string></string>
+</dict>
+</plist>
